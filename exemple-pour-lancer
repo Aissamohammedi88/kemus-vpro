@@ -1,0 +1,6 @@
+tout commande pour tout lancer
+
+
+tar xzf kemus-2.0.tar.gz
+cd kemus
+bash install.sh          # installe + lance sur http://localhost:3922
